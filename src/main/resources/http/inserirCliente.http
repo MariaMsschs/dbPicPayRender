@@ -1,0 +1,9 @@
+GET http://localhost:8080/api/banco/inserirCliente
+Content-Type: application/json
+
+{
+  "cpf":"55536329863",
+  "nome":"Maria Sanches",
+  "email":"maria.sanches@email.com",
+  "telefone":"940056395"
+}

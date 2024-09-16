@@ -1,0 +1,1 @@
+DELETE http://localhost:8080/api/banco/excluirCliente/67890123456
